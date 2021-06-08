@@ -1,1 +1,1 @@
-# movie_review_classification
+# Movie Review Classifier using NLP and sklearn
